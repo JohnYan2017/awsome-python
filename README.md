@@ -717,6 +717,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [colander](http://docs.pylonsproject.org/projects/colander/en/latest/) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
 * [voluptuous](https://github.com/alecthomas/voluptuous) - A Python data validation library.
 * [valideer](https://github.com/podio/valideer) - Lightweight extensible data validation and adaptation library.
+* [echarts-django](https://github.com/JohnYan2017/Echarts-Django) @JohnYan2017 - Platform to connect SQL with echarts and can be embeded in project.
 
 ## Anti-spam
 
@@ -981,6 +982,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [SnakeViz](http://jiffyclub.github.io/snakeviz/) - A browser based graphical viewer for the output of Python's cProfile module.
 * [vincent](https://github.com/wrobstory/vincent) - A Python to Vega translator.
 * [VisPy](http://vispy.org/) - High-performance scientific visualization based on OpenGL.
+* [echarts-django](https://github.com/JohnYan2017/Echarts-Django) - Platform to connect SQL with echarts and can be embeded in project.
 
 ## Computer Vision
 
